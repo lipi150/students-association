@@ -1,0 +1,19 @@
+.navbar{
+    height: 4rem;
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.div-2{
+   display: flex;
+   width: 100%;
+   justify-content: end;
+}
+.login{
+    color: white;
+    text-decoration: none;
+}
